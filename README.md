@@ -1,1 +1,1 @@
-# MagicalStockPrincess
+# MagicalStockPrincess - full game build
